@@ -1,0 +1,5 @@
+(
+  <% emoticons.each do |emoticon| %>
+    {name = "<%= emoticon %>"; image = "./emojis/<%= emoticon %>.png"; insert = ":<%= emoticon %>:";},
+<% end %>
+)

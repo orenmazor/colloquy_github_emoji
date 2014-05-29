@@ -1,0 +1,14 @@
+.emoticon samp {
+	display: none;
+}
+
+.emoticon:after {
+	vertical-align: -25%;
+}
+
+<% emoticons.each do |emoticon| %>
+  .emoticon.<%= emoticon %>:after {
+    content: url( "./emojis/<%= emoticon %>.png" );
+}
+<% end %>
+

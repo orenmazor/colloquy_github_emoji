@@ -1,0 +1,2625 @@
+.emoticon samp {
+	display: none;
+}
+
+.emoticon:after {
+	vertical-align: -25%;
+}
+
+  .emoticon.+1:after {
+    content: url( "./emojis/+1.png" );
+}
+  .emoticon.-1:after {
+    content: url( "./emojis/-1.png" );
+}
+  .emoticon.100:after {
+    content: url( "./emojis/100.png" );
+}
+  .emoticon.1234:after {
+    content: url( "./emojis/1234.png" );
+}
+  .emoticon.8ball:after {
+    content: url( "./emojis/8ball.png" );
+}
+  .emoticon.a:after {
+    content: url( "./emojis/a.png" );
+}
+  .emoticon.ab:after {
+    content: url( "./emojis/ab.png" );
+}
+  .emoticon.abc:after {
+    content: url( "./emojis/abc.png" );
+}
+  .emoticon.abcd:after {
+    content: url( "./emojis/abcd.png" );
+}
+  .emoticon.accept:after {
+    content: url( "./emojis/accept.png" );
+}
+  .emoticon.aerial_tramway:after {
+    content: url( "./emojis/aerial_tramway.png" );
+}
+  .emoticon.airplane:after {
+    content: url( "./emojis/airplane.png" );
+}
+  .emoticon.alarm_clock:after {
+    content: url( "./emojis/alarm_clock.png" );
+}
+  .emoticon.alien:after {
+    content: url( "./emojis/alien.png" );
+}
+  .emoticon.ambulance:after {
+    content: url( "./emojis/ambulance.png" );
+}
+  .emoticon.anchor:after {
+    content: url( "./emojis/anchor.png" );
+}
+  .emoticon.angel:after {
+    content: url( "./emojis/angel.png" );
+}
+  .emoticon.anger:after {
+    content: url( "./emojis/anger.png" );
+}
+  .emoticon.angry:after {
+    content: url( "./emojis/angry.png" );
+}
+  .emoticon.anguished:after {
+    content: url( "./emojis/anguished.png" );
+}
+  .emoticon.ant:after {
+    content: url( "./emojis/ant.png" );
+}
+  .emoticon.apple:after {
+    content: url( "./emojis/apple.png" );
+}
+  .emoticon.aquarius:after {
+    content: url( "./emojis/aquarius.png" );
+}
+  .emoticon.aries:after {
+    content: url( "./emojis/aries.png" );
+}
+  .emoticon.arrow_backward:after {
+    content: url( "./emojis/arrow_backward.png" );
+}
+  .emoticon.arrow_double_down:after {
+    content: url( "./emojis/arrow_double_down.png" );
+}
+  .emoticon.arrow_double_up:after {
+    content: url( "./emojis/arrow_double_up.png" );
+}
+  .emoticon.arrow_down:after {
+    content: url( "./emojis/arrow_down.png" );
+}
+  .emoticon.arrow_down_small:after {
+    content: url( "./emojis/arrow_down_small.png" );
+}
+  .emoticon.arrow_forward:after {
+    content: url( "./emojis/arrow_forward.png" );
+}
+  .emoticon.arrow_heading_down:after {
+    content: url( "./emojis/arrow_heading_down.png" );
+}
+  .emoticon.arrow_heading_up:after {
+    content: url( "./emojis/arrow_heading_up.png" );
+}
+  .emoticon.arrow_left:after {
+    content: url( "./emojis/arrow_left.png" );
+}
+  .emoticon.arrow_lower_left:after {
+    content: url( "./emojis/arrow_lower_left.png" );
+}
+  .emoticon.arrow_lower_right:after {
+    content: url( "./emojis/arrow_lower_right.png" );
+}
+  .emoticon.arrow_right:after {
+    content: url( "./emojis/arrow_right.png" );
+}
+  .emoticon.arrow_right_hook:after {
+    content: url( "./emojis/arrow_right_hook.png" );
+}
+  .emoticon.arrow_up:after {
+    content: url( "./emojis/arrow_up.png" );
+}
+  .emoticon.arrow_up_down:after {
+    content: url( "./emojis/arrow_up_down.png" );
+}
+  .emoticon.arrow_up_small:after {
+    content: url( "./emojis/arrow_up_small.png" );
+}
+  .emoticon.arrow_upper_left:after {
+    content: url( "./emojis/arrow_upper_left.png" );
+}
+  .emoticon.arrow_upper_right:after {
+    content: url( "./emojis/arrow_upper_right.png" );
+}
+  .emoticon.arrows_clockwise:after {
+    content: url( "./emojis/arrows_clockwise.png" );
+}
+  .emoticon.arrows_counterclockwise:after {
+    content: url( "./emojis/arrows_counterclockwise.png" );
+}
+  .emoticon.art:after {
+    content: url( "./emojis/art.png" );
+}
+  .emoticon.articulated_lorry:after {
+    content: url( "./emojis/articulated_lorry.png" );
+}
+  .emoticon.astonished:after {
+    content: url( "./emojis/astonished.png" );
+}
+  .emoticon.atm:after {
+    content: url( "./emojis/atm.png" );
+}
+  .emoticon.b:after {
+    content: url( "./emojis/b.png" );
+}
+  .emoticon.baby:after {
+    content: url( "./emojis/baby.png" );
+}
+  .emoticon.baby_bottle:after {
+    content: url( "./emojis/baby_bottle.png" );
+}
+  .emoticon.baby_chick:after {
+    content: url( "./emojis/baby_chick.png" );
+}
+  .emoticon.baby_symbol:after {
+    content: url( "./emojis/baby_symbol.png" );
+}
+  .emoticon.baggage_claim:after {
+    content: url( "./emojis/baggage_claim.png" );
+}
+  .emoticon.balloon:after {
+    content: url( "./emojis/balloon.png" );
+}
+  .emoticon.ballot_box_with_check:after {
+    content: url( "./emojis/ballot_box_with_check.png" );
+}
+  .emoticon.bamboo:after {
+    content: url( "./emojis/bamboo.png" );
+}
+  .emoticon.banana:after {
+    content: url( "./emojis/banana.png" );
+}
+  .emoticon.bangbang:after {
+    content: url( "./emojis/bangbang.png" );
+}
+  .emoticon.bank:after {
+    content: url( "./emojis/bank.png" );
+}
+  .emoticon.bar_chart:after {
+    content: url( "./emojis/bar_chart.png" );
+}
+  .emoticon.barber:after {
+    content: url( "./emojis/barber.png" );
+}
+  .emoticon.baseball:after {
+    content: url( "./emojis/baseball.png" );
+}
+  .emoticon.basketball:after {
+    content: url( "./emojis/basketball.png" );
+}
+  .emoticon.bath:after {
+    content: url( "./emojis/bath.png" );
+}
+  .emoticon.bathtub:after {
+    content: url( "./emojis/bathtub.png" );
+}
+  .emoticon.battery:after {
+    content: url( "./emojis/battery.png" );
+}
+  .emoticon.bear:after {
+    content: url( "./emojis/bear.png" );
+}
+  .emoticon.bee:after {
+    content: url( "./emojis/bee.png" );
+}
+  .emoticon.beer:after {
+    content: url( "./emojis/beer.png" );
+}
+  .emoticon.beers:after {
+    content: url( "./emojis/beers.png" );
+}
+  .emoticon.beetle:after {
+    content: url( "./emojis/beetle.png" );
+}
+  .emoticon.beginner:after {
+    content: url( "./emojis/beginner.png" );
+}
+  .emoticon.bell:after {
+    content: url( "./emojis/bell.png" );
+}
+  .emoticon.bento:after {
+    content: url( "./emojis/bento.png" );
+}
+  .emoticon.bicyclist:after {
+    content: url( "./emojis/bicyclist.png" );
+}
+  .emoticon.bike:after {
+    content: url( "./emojis/bike.png" );
+}
+  .emoticon.bikini:after {
+    content: url( "./emojis/bikini.png" );
+}
+  .emoticon.bird:after {
+    content: url( "./emojis/bird.png" );
+}
+  .emoticon.birthday:after {
+    content: url( "./emojis/birthday.png" );
+}
+  .emoticon.black_circle:after {
+    content: url( "./emojis/black_circle.png" );
+}
+  .emoticon.black_joker:after {
+    content: url( "./emojis/black_joker.png" );
+}
+  .emoticon.black_nib:after {
+    content: url( "./emojis/black_nib.png" );
+}
+  .emoticon.black_square:after {
+    content: url( "./emojis/black_square.png" );
+}
+  .emoticon.black_square_button:after {
+    content: url( "./emojis/black_square_button.png" );
+}
+  .emoticon.blossom:after {
+    content: url( "./emojis/blossom.png" );
+}
+  .emoticon.blowfish:after {
+    content: url( "./emojis/blowfish.png" );
+}
+  .emoticon.blue_book:after {
+    content: url( "./emojis/blue_book.png" );
+}
+  .emoticon.blue_car:after {
+    content: url( "./emojis/blue_car.png" );
+}
+  .emoticon.blue_heart:after {
+    content: url( "./emojis/blue_heart.png" );
+}
+  .emoticon.blush:after {
+    content: url( "./emojis/blush.png" );
+}
+  .emoticon.boar:after {
+    content: url( "./emojis/boar.png" );
+}
+  .emoticon.boat:after {
+    content: url( "./emojis/boat.png" );
+}
+  .emoticon.bomb:after {
+    content: url( "./emojis/bomb.png" );
+}
+  .emoticon.book:after {
+    content: url( "./emojis/book.png" );
+}
+  .emoticon.bookmark:after {
+    content: url( "./emojis/bookmark.png" );
+}
+  .emoticon.bookmark_tabs:after {
+    content: url( "./emojis/bookmark_tabs.png" );
+}
+  .emoticon.books:after {
+    content: url( "./emojis/books.png" );
+}
+  .emoticon.boom:after {
+    content: url( "./emojis/boom.png" );
+}
+  .emoticon.boot:after {
+    content: url( "./emojis/boot.png" );
+}
+  .emoticon.bouquet:after {
+    content: url( "./emojis/bouquet.png" );
+}
+  .emoticon.bow:after {
+    content: url( "./emojis/bow.png" );
+}
+  .emoticon.bowling:after {
+    content: url( "./emojis/bowling.png" );
+}
+  .emoticon.bowtie:after {
+    content: url( "./emojis/bowtie.png" );
+}
+  .emoticon.boy:after {
+    content: url( "./emojis/boy.png" );
+}
+  .emoticon.bread:after {
+    content: url( "./emojis/bread.png" );
+}
+  .emoticon.bride_with_veil:after {
+    content: url( "./emojis/bride_with_veil.png" );
+}
+  .emoticon.bridge_at_night:after {
+    content: url( "./emojis/bridge_at_night.png" );
+}
+  .emoticon.briefcase:after {
+    content: url( "./emojis/briefcase.png" );
+}
+  .emoticon.broken_heart:after {
+    content: url( "./emojis/broken_heart.png" );
+}
+  .emoticon.bug:after {
+    content: url( "./emojis/bug.png" );
+}
+  .emoticon.bulb:after {
+    content: url( "./emojis/bulb.png" );
+}
+  .emoticon.bullettrain_front:after {
+    content: url( "./emojis/bullettrain_front.png" );
+}
+  .emoticon.bullettrain_side:after {
+    content: url( "./emojis/bullettrain_side.png" );
+}
+  .emoticon.bus:after {
+    content: url( "./emojis/bus.png" );
+}
+  .emoticon.busstop:after {
+    content: url( "./emojis/busstop.png" );
+}
+  .emoticon.bust_in_silhouette:after {
+    content: url( "./emojis/bust_in_silhouette.png" );
+}
+  .emoticon.busts_in_silhouette:after {
+    content: url( "./emojis/busts_in_silhouette.png" );
+}
+  .emoticon.cactus:after {
+    content: url( "./emojis/cactus.png" );
+}
+  .emoticon.cake:after {
+    content: url( "./emojis/cake.png" );
+}
+  .emoticon.calendar:after {
+    content: url( "./emojis/calendar.png" );
+}
+  .emoticon.calling:after {
+    content: url( "./emojis/calling.png" );
+}
+  .emoticon.camel:after {
+    content: url( "./emojis/camel.png" );
+}
+  .emoticon.camera:after {
+    content: url( "./emojis/camera.png" );
+}
+  .emoticon.cancer:after {
+    content: url( "./emojis/cancer.png" );
+}
+  .emoticon.candy:after {
+    content: url( "./emojis/candy.png" );
+}
+  .emoticon.capital_abcd:after {
+    content: url( "./emojis/capital_abcd.png" );
+}
+  .emoticon.capricorn:after {
+    content: url( "./emojis/capricorn.png" );
+}
+  .emoticon.car:after {
+    content: url( "./emojis/car.png" );
+}
+  .emoticon.card_index:after {
+    content: url( "./emojis/card_index.png" );
+}
+  .emoticon.carousel_horse:after {
+    content: url( "./emojis/carousel_horse.png" );
+}
+  .emoticon.cat:after {
+    content: url( "./emojis/cat.png" );
+}
+  .emoticon.cat2:after {
+    content: url( "./emojis/cat2.png" );
+}
+  .emoticon.cd:after {
+    content: url( "./emojis/cd.png" );
+}
+  .emoticon.chart:after {
+    content: url( "./emojis/chart.png" );
+}
+  .emoticon.chart_with_downwards_trend:after {
+    content: url( "./emojis/chart_with_downwards_trend.png" );
+}
+  .emoticon.chart_with_upwards_trend:after {
+    content: url( "./emojis/chart_with_upwards_trend.png" );
+}
+  .emoticon.checkered_flag:after {
+    content: url( "./emojis/checkered_flag.png" );
+}
+  .emoticon.cherries:after {
+    content: url( "./emojis/cherries.png" );
+}
+  .emoticon.cherry_blossom:after {
+    content: url( "./emojis/cherry_blossom.png" );
+}
+  .emoticon.chestnut:after {
+    content: url( "./emojis/chestnut.png" );
+}
+  .emoticon.chicken:after {
+    content: url( "./emojis/chicken.png" );
+}
+  .emoticon.children_crossing:after {
+    content: url( "./emojis/children_crossing.png" );
+}
+  .emoticon.chocolate_bar:after {
+    content: url( "./emojis/chocolate_bar.png" );
+}
+  .emoticon.christmas_tree:after {
+    content: url( "./emojis/christmas_tree.png" );
+}
+  .emoticon.church:after {
+    content: url( "./emojis/church.png" );
+}
+  .emoticon.cinema:after {
+    content: url( "./emojis/cinema.png" );
+}
+  .emoticon.circus_tent:after {
+    content: url( "./emojis/circus_tent.png" );
+}
+  .emoticon.city_sunrise:after {
+    content: url( "./emojis/city_sunrise.png" );
+}
+  .emoticon.city_sunset:after {
+    content: url( "./emojis/city_sunset.png" );
+}
+  .emoticon.cl:after {
+    content: url( "./emojis/cl.png" );
+}
+  .emoticon.clap:after {
+    content: url( "./emojis/clap.png" );
+}
+  .emoticon.clapper:after {
+    content: url( "./emojis/clapper.png" );
+}
+  .emoticon.clipboard:after {
+    content: url( "./emojis/clipboard.png" );
+}
+  .emoticon.clock1:after {
+    content: url( "./emojis/clock1.png" );
+}
+  .emoticon.clock10:after {
+    content: url( "./emojis/clock10.png" );
+}
+  .emoticon.clock1030:after {
+    content: url( "./emojis/clock1030.png" );
+}
+  .emoticon.clock11:after {
+    content: url( "./emojis/clock11.png" );
+}
+  .emoticon.clock1130:after {
+    content: url( "./emojis/clock1130.png" );
+}
+  .emoticon.clock12:after {
+    content: url( "./emojis/clock12.png" );
+}
+  .emoticon.clock1230:after {
+    content: url( "./emojis/clock1230.png" );
+}
+  .emoticon.clock130:after {
+    content: url( "./emojis/clock130.png" );
+}
+  .emoticon.clock2:after {
+    content: url( "./emojis/clock2.png" );
+}
+  .emoticon.clock230:after {
+    content: url( "./emojis/clock230.png" );
+}
+  .emoticon.clock3:after {
+    content: url( "./emojis/clock3.png" );
+}
+  .emoticon.clock330:after {
+    content: url( "./emojis/clock330.png" );
+}
+  .emoticon.clock4:after {
+    content: url( "./emojis/clock4.png" );
+}
+  .emoticon.clock430:after {
+    content: url( "./emojis/clock430.png" );
+}
+  .emoticon.clock5:after {
+    content: url( "./emojis/clock5.png" );
+}
+  .emoticon.clock530:after {
+    content: url( "./emojis/clock530.png" );
+}
+  .emoticon.clock6:after {
+    content: url( "./emojis/clock6.png" );
+}
+  .emoticon.clock630:after {
+    content: url( "./emojis/clock630.png" );
+}
+  .emoticon.clock7:after {
+    content: url( "./emojis/clock7.png" );
+}
+  .emoticon.clock730:after {
+    content: url( "./emojis/clock730.png" );
+}
+  .emoticon.clock8:after {
+    content: url( "./emojis/clock8.png" );
+}
+  .emoticon.clock830:after {
+    content: url( "./emojis/clock830.png" );
+}
+  .emoticon.clock9:after {
+    content: url( "./emojis/clock9.png" );
+}
+  .emoticon.clock930:after {
+    content: url( "./emojis/clock930.png" );
+}
+  .emoticon.closed_book:after {
+    content: url( "./emojis/closed_book.png" );
+}
+  .emoticon.closed_lock_with_key:after {
+    content: url( "./emojis/closed_lock_with_key.png" );
+}
+  .emoticon.closed_umbrella:after {
+    content: url( "./emojis/closed_umbrella.png" );
+}
+  .emoticon.cloud:after {
+    content: url( "./emojis/cloud.png" );
+}
+  .emoticon.clubs:after {
+    content: url( "./emojis/clubs.png" );
+}
+  .emoticon.cn:after {
+    content: url( "./emojis/cn.png" );
+}
+  .emoticon.cocktail:after {
+    content: url( "./emojis/cocktail.png" );
+}
+  .emoticon.coffee:after {
+    content: url( "./emojis/coffee.png" );
+}
+  .emoticon.cold_sweat:after {
+    content: url( "./emojis/cold_sweat.png" );
+}
+  .emoticon.collision:after {
+    content: url( "./emojis/collision.png" );
+}
+  .emoticon.computer:after {
+    content: url( "./emojis/computer.png" );
+}
+  .emoticon.confetti_ball:after {
+    content: url( "./emojis/confetti_ball.png" );
+}
+  .emoticon.confounded:after {
+    content: url( "./emojis/confounded.png" );
+}
+  .emoticon.confused:after {
+    content: url( "./emojis/confused.png" );
+}
+  .emoticon.congratulations:after {
+    content: url( "./emojis/congratulations.png" );
+}
+  .emoticon.construction:after {
+    content: url( "./emojis/construction.png" );
+}
+  .emoticon.construction_worker:after {
+    content: url( "./emojis/construction_worker.png" );
+}
+  .emoticon.convenience_store:after {
+    content: url( "./emojis/convenience_store.png" );
+}
+  .emoticon.cookie:after {
+    content: url( "./emojis/cookie.png" );
+}
+  .emoticon.cool:after {
+    content: url( "./emojis/cool.png" );
+}
+  .emoticon.cop:after {
+    content: url( "./emojis/cop.png" );
+}
+  .emoticon.copyright:after {
+    content: url( "./emojis/copyright.png" );
+}
+  .emoticon.corn:after {
+    content: url( "./emojis/corn.png" );
+}
+  .emoticon.couple:after {
+    content: url( "./emojis/couple.png" );
+}
+  .emoticon.couple_with_heart:after {
+    content: url( "./emojis/couple_with_heart.png" );
+}
+  .emoticon.couplekiss:after {
+    content: url( "./emojis/couplekiss.png" );
+}
+  .emoticon.cow:after {
+    content: url( "./emojis/cow.png" );
+}
+  .emoticon.cow2:after {
+    content: url( "./emojis/cow2.png" );
+}
+  .emoticon.credit_card:after {
+    content: url( "./emojis/credit_card.png" );
+}
+  .emoticon.crocodile:after {
+    content: url( "./emojis/crocodile.png" );
+}
+  .emoticon.crossed_flags:after {
+    content: url( "./emojis/crossed_flags.png" );
+}
+  .emoticon.crown:after {
+    content: url( "./emojis/crown.png" );
+}
+  .emoticon.cry:after {
+    content: url( "./emojis/cry.png" );
+}
+  .emoticon.crying_cat_face:after {
+    content: url( "./emojis/crying_cat_face.png" );
+}
+  .emoticon.crystal_ball:after {
+    content: url( "./emojis/crystal_ball.png" );
+}
+  .emoticon.cupid:after {
+    content: url( "./emojis/cupid.png" );
+}
+  .emoticon.curly_loop:after {
+    content: url( "./emojis/curly_loop.png" );
+}
+  .emoticon.currency_exchange:after {
+    content: url( "./emojis/currency_exchange.png" );
+}
+  .emoticon.curry:after {
+    content: url( "./emojis/curry.png" );
+}
+  .emoticon.custard:after {
+    content: url( "./emojis/custard.png" );
+}
+  .emoticon.customs:after {
+    content: url( "./emojis/customs.png" );
+}
+  .emoticon.cyclone:after {
+    content: url( "./emojis/cyclone.png" );
+}
+  .emoticon.dancer:after {
+    content: url( "./emojis/dancer.png" );
+}
+  .emoticon.dancers:after {
+    content: url( "./emojis/dancers.png" );
+}
+  .emoticon.dango:after {
+    content: url( "./emojis/dango.png" );
+}
+  .emoticon.dart:after {
+    content: url( "./emojis/dart.png" );
+}
+  .emoticon.dash:after {
+    content: url( "./emojis/dash.png" );
+}
+  .emoticon.date:after {
+    content: url( "./emojis/date.png" );
+}
+  .emoticon.de:after {
+    content: url( "./emojis/de.png" );
+}
+  .emoticon.deciduous_tree:after {
+    content: url( "./emojis/deciduous_tree.png" );
+}
+  .emoticon.department_store:after {
+    content: url( "./emojis/department_store.png" );
+}
+  .emoticon.diamond_shape_with_a_dot_inside:after {
+    content: url( "./emojis/diamond_shape_with_a_dot_inside.png" );
+}
+  .emoticon.diamonds:after {
+    content: url( "./emojis/diamonds.png" );
+}
+  .emoticon.disappointed:after {
+    content: url( "./emojis/disappointed.png" );
+}
+  .emoticon.disappointed_relieved:after {
+    content: url( "./emojis/disappointed_relieved.png" );
+}
+  .emoticon.dizzy:after {
+    content: url( "./emojis/dizzy.png" );
+}
+  .emoticon.dizzy_face:after {
+    content: url( "./emojis/dizzy_face.png" );
+}
+  .emoticon.do_not_litter:after {
+    content: url( "./emojis/do_not_litter.png" );
+}
+  .emoticon.dog:after {
+    content: url( "./emojis/dog.png" );
+}
+  .emoticon.dog2:after {
+    content: url( "./emojis/dog2.png" );
+}
+  .emoticon.dollar:after {
+    content: url( "./emojis/dollar.png" );
+}
+  .emoticon.dolls:after {
+    content: url( "./emojis/dolls.png" );
+}
+  .emoticon.dolphin:after {
+    content: url( "./emojis/dolphin.png" );
+}
+  .emoticon.donut:after {
+    content: url( "./emojis/donut.png" );
+}
+  .emoticon.door:after {
+    content: url( "./emojis/door.png" );
+}
+  .emoticon.doughnut:after {
+    content: url( "./emojis/doughnut.png" );
+}
+  .emoticon.dragon:after {
+    content: url( "./emojis/dragon.png" );
+}
+  .emoticon.dragon_face:after {
+    content: url( "./emojis/dragon_face.png" );
+}
+  .emoticon.dress:after {
+    content: url( "./emojis/dress.png" );
+}
+  .emoticon.dromedary_camel:after {
+    content: url( "./emojis/dromedary_camel.png" );
+}
+  .emoticon.droplet:after {
+    content: url( "./emojis/droplet.png" );
+}
+  .emoticon.dvd:after {
+    content: url( "./emojis/dvd.png" );
+}
+  .emoticon.e-mail:after {
+    content: url( "./emojis/e-mail.png" );
+}
+  .emoticon.ear:after {
+    content: url( "./emojis/ear.png" );
+}
+  .emoticon.ear_of_rice:after {
+    content: url( "./emojis/ear_of_rice.png" );
+}
+  .emoticon.earth_africa:after {
+    content: url( "./emojis/earth_africa.png" );
+}
+  .emoticon.earth_americas:after {
+    content: url( "./emojis/earth_americas.png" );
+}
+  .emoticon.earth_asia:after {
+    content: url( "./emojis/earth_asia.png" );
+}
+  .emoticon.egg:after {
+    content: url( "./emojis/egg.png" );
+}
+  .emoticon.eggplant:after {
+    content: url( "./emojis/eggplant.png" );
+}
+  .emoticon.eight:after {
+    content: url( "./emojis/eight.png" );
+}
+  .emoticon.eight_pointed_black_star:after {
+    content: url( "./emojis/eight_pointed_black_star.png" );
+}
+  .emoticon.eight_spoked_asterisk:after {
+    content: url( "./emojis/eight_spoked_asterisk.png" );
+}
+  .emoticon.electric_plug:after {
+    content: url( "./emojis/electric_plug.png" );
+}
+  .emoticon.elephant:after {
+    content: url( "./emojis/elephant.png" );
+}
+  .emoticon.email:after {
+    content: url( "./emojis/email.png" );
+}
+  .emoticon.end:after {
+    content: url( "./emojis/end.png" );
+}
+  .emoticon.envelope:after {
+    content: url( "./emojis/envelope.png" );
+}
+  .emoticon.es:after {
+    content: url( "./emojis/es.png" );
+}
+  .emoticon.euro:after {
+    content: url( "./emojis/euro.png" );
+}
+  .emoticon.european_castle:after {
+    content: url( "./emojis/european_castle.png" );
+}
+  .emoticon.european_post_office:after {
+    content: url( "./emojis/european_post_office.png" );
+}
+  .emoticon.evergreen_tree:after {
+    content: url( "./emojis/evergreen_tree.png" );
+}
+  .emoticon.exclamation:after {
+    content: url( "./emojis/exclamation.png" );
+}
+  .emoticon.expressionless:after {
+    content: url( "./emojis/expressionless.png" );
+}
+  .emoticon.eyeglasses:after {
+    content: url( "./emojis/eyeglasses.png" );
+}
+  .emoticon.eyes:after {
+    content: url( "./emojis/eyes.png" );
+}
+  .emoticon.facepunch:after {
+    content: url( "./emojis/facepunch.png" );
+}
+  .emoticon.factory:after {
+    content: url( "./emojis/factory.png" );
+}
+  .emoticon.fallen_leaf:after {
+    content: url( "./emojis/fallen_leaf.png" );
+}
+  .emoticon.family:after {
+    content: url( "./emojis/family.png" );
+}
+  .emoticon.fast_forward:after {
+    content: url( "./emojis/fast_forward.png" );
+}
+  .emoticon.fax:after {
+    content: url( "./emojis/fax.png" );
+}
+  .emoticon.fearful:after {
+    content: url( "./emojis/fearful.png" );
+}
+  .emoticon.feelsgood:after {
+    content: url( "./emojis/feelsgood.png" );
+}
+  .emoticon.feet:after {
+    content: url( "./emojis/feet.png" );
+}
+  .emoticon.ferris_wheel:after {
+    content: url( "./emojis/ferris_wheel.png" );
+}
+  .emoticon.file_folder:after {
+    content: url( "./emojis/file_folder.png" );
+}
+  .emoticon.finnadie:after {
+    content: url( "./emojis/finnadie.png" );
+}
+  .emoticon.fire:after {
+    content: url( "./emojis/fire.png" );
+}
+  .emoticon.fire_engine:after {
+    content: url( "./emojis/fire_engine.png" );
+}
+  .emoticon.fireworks:after {
+    content: url( "./emojis/fireworks.png" );
+}
+  .emoticon.first_quarter_moon:after {
+    content: url( "./emojis/first_quarter_moon.png" );
+}
+  .emoticon.first_quarter_moon_with_face:after {
+    content: url( "./emojis/first_quarter_moon_with_face.png" );
+}
+  .emoticon.fish:after {
+    content: url( "./emojis/fish.png" );
+}
+  .emoticon.fish_cake:after {
+    content: url( "./emojis/fish_cake.png" );
+}
+  .emoticon.fishing_pole_and_fish:after {
+    content: url( "./emojis/fishing_pole_and_fish.png" );
+}
+  .emoticon.fist:after {
+    content: url( "./emojis/fist.png" );
+}
+  .emoticon.five:after {
+    content: url( "./emojis/five.png" );
+}
+  .emoticon.flags:after {
+    content: url( "./emojis/flags.png" );
+}
+  .emoticon.flashlight:after {
+    content: url( "./emojis/flashlight.png" );
+}
+  .emoticon.floppy_disk:after {
+    content: url( "./emojis/floppy_disk.png" );
+}
+  .emoticon.flower_playing_cards:after {
+    content: url( "./emojis/flower_playing_cards.png" );
+}
+  .emoticon.flushed:after {
+    content: url( "./emojis/flushed.png" );
+}
+  .emoticon.foggy:after {
+    content: url( "./emojis/foggy.png" );
+}
+  .emoticon.football:after {
+    content: url( "./emojis/football.png" );
+}
+  .emoticon.fork_and_knife:after {
+    content: url( "./emojis/fork_and_knife.png" );
+}
+  .emoticon.fountain:after {
+    content: url( "./emojis/fountain.png" );
+}
+  .emoticon.four:after {
+    content: url( "./emojis/four.png" );
+}
+  .emoticon.four_leaf_clover:after {
+    content: url( "./emojis/four_leaf_clover.png" );
+}
+  .emoticon.fr:after {
+    content: url( "./emojis/fr.png" );
+}
+  .emoticon.free:after {
+    content: url( "./emojis/free.png" );
+}
+  .emoticon.fried_shrimp:after {
+    content: url( "./emojis/fried_shrimp.png" );
+}
+  .emoticon.fries:after {
+    content: url( "./emojis/fries.png" );
+}
+  .emoticon.frog:after {
+    content: url( "./emojis/frog.png" );
+}
+  .emoticon.frowning:after {
+    content: url( "./emojis/frowning.png" );
+}
+  .emoticon.fu:after {
+    content: url( "./emojis/fu.png" );
+}
+  .emoticon.fuelpump:after {
+    content: url( "./emojis/fuelpump.png" );
+}
+  .emoticon.full_moon:after {
+    content: url( "./emojis/full_moon.png" );
+}
+  .emoticon.full_moon_with_face:after {
+    content: url( "./emojis/full_moon_with_face.png" );
+}
+  .emoticon.game_die:after {
+    content: url( "./emojis/game_die.png" );
+}
+  .emoticon.gb:after {
+    content: url( "./emojis/gb.png" );
+}
+  .emoticon.gem:after {
+    content: url( "./emojis/gem.png" );
+}
+  .emoticon.gemini:after {
+    content: url( "./emojis/gemini.png" );
+}
+  .emoticon.ghost:after {
+    content: url( "./emojis/ghost.png" );
+}
+  .emoticon.gift:after {
+    content: url( "./emojis/gift.png" );
+}
+  .emoticon.gift_heart:after {
+    content: url( "./emojis/gift_heart.png" );
+}
+  .emoticon.girl:after {
+    content: url( "./emojis/girl.png" );
+}
+  .emoticon.globe_with_meridians:after {
+    content: url( "./emojis/globe_with_meridians.png" );
+}
+  .emoticon.goat:after {
+    content: url( "./emojis/goat.png" );
+}
+  .emoticon.goberserk:after {
+    content: url( "./emojis/goberserk.png" );
+}
+  .emoticon.godmode:after {
+    content: url( "./emojis/godmode.png" );
+}
+  .emoticon.golf:after {
+    content: url( "./emojis/golf.png" );
+}
+  .emoticon.grapes:after {
+    content: url( "./emojis/grapes.png" );
+}
+  .emoticon.green_apple:after {
+    content: url( "./emojis/green_apple.png" );
+}
+  .emoticon.green_book:after {
+    content: url( "./emojis/green_book.png" );
+}
+  .emoticon.green_heart:after {
+    content: url( "./emojis/green_heart.png" );
+}
+  .emoticon.grey_exclamation:after {
+    content: url( "./emojis/grey_exclamation.png" );
+}
+  .emoticon.grey_question:after {
+    content: url( "./emojis/grey_question.png" );
+}
+  .emoticon.grimacing:after {
+    content: url( "./emojis/grimacing.png" );
+}
+  .emoticon.grin:after {
+    content: url( "./emojis/grin.png" );
+}
+  .emoticon.grinning:after {
+    content: url( "./emojis/grinning.png" );
+}
+  .emoticon.guardsman:after {
+    content: url( "./emojis/guardsman.png" );
+}
+  .emoticon.guitar:after {
+    content: url( "./emojis/guitar.png" );
+}
+  .emoticon.gun:after {
+    content: url( "./emojis/gun.png" );
+}
+  .emoticon.haircut:after {
+    content: url( "./emojis/haircut.png" );
+}
+  .emoticon.hamburger:after {
+    content: url( "./emojis/hamburger.png" );
+}
+  .emoticon.hammer:after {
+    content: url( "./emojis/hammer.png" );
+}
+  .emoticon.hamster:after {
+    content: url( "./emojis/hamster.png" );
+}
+  .emoticon.hand:after {
+    content: url( "./emojis/hand.png" );
+}
+  .emoticon.handbag:after {
+    content: url( "./emojis/handbag.png" );
+}
+  .emoticon.hankey:after {
+    content: url( "./emojis/hankey.png" );
+}
+  .emoticon.hash:after {
+    content: url( "./emojis/hash.png" );
+}
+  .emoticon.hatched_chick:after {
+    content: url( "./emojis/hatched_chick.png" );
+}
+  .emoticon.hatching_chick:after {
+    content: url( "./emojis/hatching_chick.png" );
+}
+  .emoticon.headphones:after {
+    content: url( "./emojis/headphones.png" );
+}
+  .emoticon.hear_no_evil:after {
+    content: url( "./emojis/hear_no_evil.png" );
+}
+  .emoticon.heart:after {
+    content: url( "./emojis/heart.png" );
+}
+  .emoticon.heart_decoration:after {
+    content: url( "./emojis/heart_decoration.png" );
+}
+  .emoticon.heart_eyes:after {
+    content: url( "./emojis/heart_eyes.png" );
+}
+  .emoticon.heart_eyes_cat:after {
+    content: url( "./emojis/heart_eyes_cat.png" );
+}
+  .emoticon.heartbeat:after {
+    content: url( "./emojis/heartbeat.png" );
+}
+  .emoticon.heartpulse:after {
+    content: url( "./emojis/heartpulse.png" );
+}
+  .emoticon.hearts:after {
+    content: url( "./emojis/hearts.png" );
+}
+  .emoticon.heavy_check_mark:after {
+    content: url( "./emojis/heavy_check_mark.png" );
+}
+  .emoticon.heavy_division_sign:after {
+    content: url( "./emojis/heavy_division_sign.png" );
+}
+  .emoticon.heavy_dollar_sign:after {
+    content: url( "./emojis/heavy_dollar_sign.png" );
+}
+  .emoticon.heavy_exclamation_mark:after {
+    content: url( "./emojis/heavy_exclamation_mark.png" );
+}
+  .emoticon.heavy_minus_sign:after {
+    content: url( "./emojis/heavy_minus_sign.png" );
+}
+  .emoticon.heavy_multiplication_x:after {
+    content: url( "./emojis/heavy_multiplication_x.png" );
+}
+  .emoticon.heavy_plus_sign:after {
+    content: url( "./emojis/heavy_plus_sign.png" );
+}
+  .emoticon.helicopter:after {
+    content: url( "./emojis/helicopter.png" );
+}
+  .emoticon.herb:after {
+    content: url( "./emojis/herb.png" );
+}
+  .emoticon.hibiscus:after {
+    content: url( "./emojis/hibiscus.png" );
+}
+  .emoticon.high_brightness:after {
+    content: url( "./emojis/high_brightness.png" );
+}
+  .emoticon.high_heel:after {
+    content: url( "./emojis/high_heel.png" );
+}
+  .emoticon.hocho:after {
+    content: url( "./emojis/hocho.png" );
+}
+  .emoticon.honey_pot:after {
+    content: url( "./emojis/honey_pot.png" );
+}
+  .emoticon.honeybee:after {
+    content: url( "./emojis/honeybee.png" );
+}
+  .emoticon.horse:after {
+    content: url( "./emojis/horse.png" );
+}
+  .emoticon.horse_racing:after {
+    content: url( "./emojis/horse_racing.png" );
+}
+  .emoticon.hospital:after {
+    content: url( "./emojis/hospital.png" );
+}
+  .emoticon.hotel:after {
+    content: url( "./emojis/hotel.png" );
+}
+  .emoticon.hotsprings:after {
+    content: url( "./emojis/hotsprings.png" );
+}
+  .emoticon.hourglass:after {
+    content: url( "./emojis/hourglass.png" );
+}
+  .emoticon.hourglass_flowing_sand:after {
+    content: url( "./emojis/hourglass_flowing_sand.png" );
+}
+  .emoticon.house:after {
+    content: url( "./emojis/house.png" );
+}
+  .emoticon.house_with_garden:after {
+    content: url( "./emojis/house_with_garden.png" );
+}
+  .emoticon.hurtrealbad:after {
+    content: url( "./emojis/hurtrealbad.png" );
+}
+  .emoticon.hushed:after {
+    content: url( "./emojis/hushed.png" );
+}
+  .emoticon.ice_cream:after {
+    content: url( "./emojis/ice_cream.png" );
+}
+  .emoticon.icecream:after {
+    content: url( "./emojis/icecream.png" );
+}
+  .emoticon.id:after {
+    content: url( "./emojis/id.png" );
+}
+  .emoticon.ideograph_advantage:after {
+    content: url( "./emojis/ideograph_advantage.png" );
+}
+  .emoticon.imp:after {
+    content: url( "./emojis/imp.png" );
+}
+  .emoticon.inbox_tray:after {
+    content: url( "./emojis/inbox_tray.png" );
+}
+  .emoticon.incoming_envelope:after {
+    content: url( "./emojis/incoming_envelope.png" );
+}
+  .emoticon.information_desk_person:after {
+    content: url( "./emojis/information_desk_person.png" );
+}
+  .emoticon.information_source:after {
+    content: url( "./emojis/information_source.png" );
+}
+  .emoticon.innocent:after {
+    content: url( "./emojis/innocent.png" );
+}
+  .emoticon.interrobang:after {
+    content: url( "./emojis/interrobang.png" );
+}
+  .emoticon.iphone:after {
+    content: url( "./emojis/iphone.png" );
+}
+  .emoticon.it:after {
+    content: url( "./emojis/it.png" );
+}
+  .emoticon.izakaya_lantern:after {
+    content: url( "./emojis/izakaya_lantern.png" );
+}
+  .emoticon.jack_o_lantern:after {
+    content: url( "./emojis/jack_o_lantern.png" );
+}
+  .emoticon.japan:after {
+    content: url( "./emojis/japan.png" );
+}
+  .emoticon.japanese_castle:after {
+    content: url( "./emojis/japanese_castle.png" );
+}
+  .emoticon.japanese_goblin:after {
+    content: url( "./emojis/japanese_goblin.png" );
+}
+  .emoticon.japanese_ogre:after {
+    content: url( "./emojis/japanese_ogre.png" );
+}
+  .emoticon.jeans:after {
+    content: url( "./emojis/jeans.png" );
+}
+  .emoticon.joy:after {
+    content: url( "./emojis/joy.png" );
+}
+  .emoticon.joy_cat:after {
+    content: url( "./emojis/joy_cat.png" );
+}
+  .emoticon.jp:after {
+    content: url( "./emojis/jp.png" );
+}
+  .emoticon.key:after {
+    content: url( "./emojis/key.png" );
+}
+  .emoticon.keycap_ten:after {
+    content: url( "./emojis/keycap_ten.png" );
+}
+  .emoticon.kimono:after {
+    content: url( "./emojis/kimono.png" );
+}
+  .emoticon.kiss:after {
+    content: url( "./emojis/kiss.png" );
+}
+  .emoticon.kissing:after {
+    content: url( "./emojis/kissing.png" );
+}
+  .emoticon.kissing_cat:after {
+    content: url( "./emojis/kissing_cat.png" );
+}
+  .emoticon.kissing_closed_eyes:after {
+    content: url( "./emojis/kissing_closed_eyes.png" );
+}
+  .emoticon.kissing_face:after {
+    content: url( "./emojis/kissing_face.png" );
+}
+  .emoticon.kissing_heart:after {
+    content: url( "./emojis/kissing_heart.png" );
+}
+  .emoticon.kissing_smiling_eyes:after {
+    content: url( "./emojis/kissing_smiling_eyes.png" );
+}
+  .emoticon.koala:after {
+    content: url( "./emojis/koala.png" );
+}
+  .emoticon.koko:after {
+    content: url( "./emojis/koko.png" );
+}
+  .emoticon.kr:after {
+    content: url( "./emojis/kr.png" );
+}
+  .emoticon.large_blue_circle:after {
+    content: url( "./emojis/large_blue_circle.png" );
+}
+  .emoticon.large_blue_diamond:after {
+    content: url( "./emojis/large_blue_diamond.png" );
+}
+  .emoticon.large_orange_diamond:after {
+    content: url( "./emojis/large_orange_diamond.png" );
+}
+  .emoticon.last_quarter_moon:after {
+    content: url( "./emojis/last_quarter_moon.png" );
+}
+  .emoticon.last_quarter_moon_with_face:after {
+    content: url( "./emojis/last_quarter_moon_with_face.png" );
+}
+  .emoticon.laughing:after {
+    content: url( "./emojis/laughing.png" );
+}
+  .emoticon.leaves:after {
+    content: url( "./emojis/leaves.png" );
+}
+  .emoticon.ledger:after {
+    content: url( "./emojis/ledger.png" );
+}
+  .emoticon.left_luggage:after {
+    content: url( "./emojis/left_luggage.png" );
+}
+  .emoticon.left_right_arrow:after {
+    content: url( "./emojis/left_right_arrow.png" );
+}
+  .emoticon.leftwards_arrow_with_hook:after {
+    content: url( "./emojis/leftwards_arrow_with_hook.png" );
+}
+  .emoticon.lemon:after {
+    content: url( "./emojis/lemon.png" );
+}
+  .emoticon.leo:after {
+    content: url( "./emojis/leo.png" );
+}
+  .emoticon.leopard:after {
+    content: url( "./emojis/leopard.png" );
+}
+  .emoticon.libra:after {
+    content: url( "./emojis/libra.png" );
+}
+  .emoticon.light_rail:after {
+    content: url( "./emojis/light_rail.png" );
+}
+  .emoticon.link:after {
+    content: url( "./emojis/link.png" );
+}
+  .emoticon.lips:after {
+    content: url( "./emojis/lips.png" );
+}
+  .emoticon.lipstick:after {
+    content: url( "./emojis/lipstick.png" );
+}
+  .emoticon.lock:after {
+    content: url( "./emojis/lock.png" );
+}
+  .emoticon.lock_with_ink_pen:after {
+    content: url( "./emojis/lock_with_ink_pen.png" );
+}
+  .emoticon.lollipop:after {
+    content: url( "./emojis/lollipop.png" );
+}
+  .emoticon.loop:after {
+    content: url( "./emojis/loop.png" );
+}
+  .emoticon.loudspeaker:after {
+    content: url( "./emojis/loudspeaker.png" );
+}
+  .emoticon.love_hotel:after {
+    content: url( "./emojis/love_hotel.png" );
+}
+  .emoticon.love_letter:after {
+    content: url( "./emojis/love_letter.png" );
+}
+  .emoticon.low_brightness:after {
+    content: url( "./emojis/low_brightness.png" );
+}
+  .emoticon.m:after {
+    content: url( "./emojis/m.png" );
+}
+  .emoticon.mag:after {
+    content: url( "./emojis/mag.png" );
+}
+  .emoticon.mag_right:after {
+    content: url( "./emojis/mag_right.png" );
+}
+  .emoticon.mahjong:after {
+    content: url( "./emojis/mahjong.png" );
+}
+  .emoticon.mailbox:after {
+    content: url( "./emojis/mailbox.png" );
+}
+  .emoticon.mailbox_closed:after {
+    content: url( "./emojis/mailbox_closed.png" );
+}
+  .emoticon.mailbox_with_mail:after {
+    content: url( "./emojis/mailbox_with_mail.png" );
+}
+  .emoticon.mailbox_with_no_mail:after {
+    content: url( "./emojis/mailbox_with_no_mail.png" );
+}
+  .emoticon.man:after {
+    content: url( "./emojis/man.png" );
+}
+  .emoticon.man_with_gua_pi_mao:after {
+    content: url( "./emojis/man_with_gua_pi_mao.png" );
+}
+  .emoticon.man_with_turban:after {
+    content: url( "./emojis/man_with_turban.png" );
+}
+  .emoticon.mans_shoe:after {
+    content: url( "./emojis/mans_shoe.png" );
+}
+  .emoticon.maple_leaf:after {
+    content: url( "./emojis/maple_leaf.png" );
+}
+  .emoticon.mask:after {
+    content: url( "./emojis/mask.png" );
+}
+  .emoticon.massage:after {
+    content: url( "./emojis/massage.png" );
+}
+  .emoticon.meat_on_bone:after {
+    content: url( "./emojis/meat_on_bone.png" );
+}
+  .emoticon.mega:after {
+    content: url( "./emojis/mega.png" );
+}
+  .emoticon.melon:after {
+    content: url( "./emojis/melon.png" );
+}
+  .emoticon.memo:after {
+    content: url( "./emojis/memo.png" );
+}
+  .emoticon.mens:after {
+    content: url( "./emojis/mens.png" );
+}
+  .emoticon.metal:after {
+    content: url( "./emojis/metal.png" );
+}
+  .emoticon.metro:after {
+    content: url( "./emojis/metro.png" );
+}
+  .emoticon.microphone:after {
+    content: url( "./emojis/microphone.png" );
+}
+  .emoticon.microscope:after {
+    content: url( "./emojis/microscope.png" );
+}
+  .emoticon.milky_way:after {
+    content: url( "./emojis/milky_way.png" );
+}
+  .emoticon.minibus:after {
+    content: url( "./emojis/minibus.png" );
+}
+  .emoticon.minidisc:after {
+    content: url( "./emojis/minidisc.png" );
+}
+  .emoticon.mobile_phone_off:after {
+    content: url( "./emojis/mobile_phone_off.png" );
+}
+  .emoticon.money_with_wings:after {
+    content: url( "./emojis/money_with_wings.png" );
+}
+  .emoticon.moneybag:after {
+    content: url( "./emojis/moneybag.png" );
+}
+  .emoticon.monkey:after {
+    content: url( "./emojis/monkey.png" );
+}
+  .emoticon.monkey_face:after {
+    content: url( "./emojis/monkey_face.png" );
+}
+  .emoticon.monorail:after {
+    content: url( "./emojis/monorail.png" );
+}
+  .emoticon.moon:after {
+    content: url( "./emojis/moon.png" );
+}
+  .emoticon.mortar_board:after {
+    content: url( "./emojis/mortar_board.png" );
+}
+  .emoticon.mount_fuji:after {
+    content: url( "./emojis/mount_fuji.png" );
+}
+  .emoticon.mountain_bicyclist:after {
+    content: url( "./emojis/mountain_bicyclist.png" );
+}
+  .emoticon.mountain_cableway:after {
+    content: url( "./emojis/mountain_cableway.png" );
+}
+  .emoticon.mountain_railway:after {
+    content: url( "./emojis/mountain_railway.png" );
+}
+  .emoticon.mouse:after {
+    content: url( "./emojis/mouse.png" );
+}
+  .emoticon.mouse2:after {
+    content: url( "./emojis/mouse2.png" );
+}
+  .emoticon.movie_camera:after {
+    content: url( "./emojis/movie_camera.png" );
+}
+  .emoticon.moyai:after {
+    content: url( "./emojis/moyai.png" );
+}
+  .emoticon.muscle:after {
+    content: url( "./emojis/muscle.png" );
+}
+  .emoticon.mushroom:after {
+    content: url( "./emojis/mushroom.png" );
+}
+  .emoticon.musical_keyboard:after {
+    content: url( "./emojis/musical_keyboard.png" );
+}
+  .emoticon.musical_note:after {
+    content: url( "./emojis/musical_note.png" );
+}
+  .emoticon.musical_score:after {
+    content: url( "./emojis/musical_score.png" );
+}
+  .emoticon.mute:after {
+    content: url( "./emojis/mute.png" );
+}
+  .emoticon.nail_care:after {
+    content: url( "./emojis/nail_care.png" );
+}
+  .emoticon.name_badge:after {
+    content: url( "./emojis/name_badge.png" );
+}
+  .emoticon.neckbeard:after {
+    content: url( "./emojis/neckbeard.png" );
+}
+  .emoticon.necktie:after {
+    content: url( "./emojis/necktie.png" );
+}
+  .emoticon.negative_squared_cross_mark:after {
+    content: url( "./emojis/negative_squared_cross_mark.png" );
+}
+  .emoticon.neutral_face:after {
+    content: url( "./emojis/neutral_face.png" );
+}
+  .emoticon.new:after {
+    content: url( "./emojis/new.png" );
+}
+  .emoticon.new_moon:after {
+    content: url( "./emojis/new_moon.png" );
+}
+  .emoticon.new_moon_with_face:after {
+    content: url( "./emojis/new_moon_with_face.png" );
+}
+  .emoticon.newspaper:after {
+    content: url( "./emojis/newspaper.png" );
+}
+  .emoticon.ng:after {
+    content: url( "./emojis/ng.png" );
+}
+  .emoticon.nine:after {
+    content: url( "./emojis/nine.png" );
+}
+  .emoticon.no_bell:after {
+    content: url( "./emojis/no_bell.png" );
+}
+  .emoticon.no_bicycles:after {
+    content: url( "./emojis/no_bicycles.png" );
+}
+  .emoticon.no_entry:after {
+    content: url( "./emojis/no_entry.png" );
+}
+  .emoticon.no_entry_sign:after {
+    content: url( "./emojis/no_entry_sign.png" );
+}
+  .emoticon.no_good:after {
+    content: url( "./emojis/no_good.png" );
+}
+  .emoticon.no_mobile_phones:after {
+    content: url( "./emojis/no_mobile_phones.png" );
+}
+  .emoticon.no_mouth:after {
+    content: url( "./emojis/no_mouth.png" );
+}
+  .emoticon.no_pedestrians:after {
+    content: url( "./emojis/no_pedestrians.png" );
+}
+  .emoticon.no_smoking:after {
+    content: url( "./emojis/no_smoking.png" );
+}
+  .emoticon.non-potable_water:after {
+    content: url( "./emojis/non-potable_water.png" );
+}
+  .emoticon.nose:after {
+    content: url( "./emojis/nose.png" );
+}
+  .emoticon.notebook:after {
+    content: url( "./emojis/notebook.png" );
+}
+  .emoticon.notebook_with_decorative_cover:after {
+    content: url( "./emojis/notebook_with_decorative_cover.png" );
+}
+  .emoticon.notes:after {
+    content: url( "./emojis/notes.png" );
+}
+  .emoticon.nut_and_bolt:after {
+    content: url( "./emojis/nut_and_bolt.png" );
+}
+  .emoticon.o:after {
+    content: url( "./emojis/o.png" );
+}
+  .emoticon.o2:after {
+    content: url( "./emojis/o2.png" );
+}
+  .emoticon.ocean:after {
+    content: url( "./emojis/ocean.png" );
+}
+  .emoticon.octocat:after {
+    content: url( "./emojis/octocat.png" );
+}
+  .emoticon.octopus:after {
+    content: url( "./emojis/octopus.png" );
+}
+  .emoticon.oden:after {
+    content: url( "./emojis/oden.png" );
+}
+  .emoticon.office:after {
+    content: url( "./emojis/office.png" );
+}
+  .emoticon.ok:after {
+    content: url( "./emojis/ok.png" );
+}
+  .emoticon.ok_hand:after {
+    content: url( "./emojis/ok_hand.png" );
+}
+  .emoticon.ok_woman:after {
+    content: url( "./emojis/ok_woman.png" );
+}
+  .emoticon.older_man:after {
+    content: url( "./emojis/older_man.png" );
+}
+  .emoticon.older_woman:after {
+    content: url( "./emojis/older_woman.png" );
+}
+  .emoticon.on:after {
+    content: url( "./emojis/on.png" );
+}
+  .emoticon.oncoming_automobile:after {
+    content: url( "./emojis/oncoming_automobile.png" );
+}
+  .emoticon.oncoming_bus:after {
+    content: url( "./emojis/oncoming_bus.png" );
+}
+  .emoticon.oncoming_police_car:after {
+    content: url( "./emojis/oncoming_police_car.png" );
+}
+  .emoticon.oncoming_taxi:after {
+    content: url( "./emojis/oncoming_taxi.png" );
+}
+  .emoticon.one:after {
+    content: url( "./emojis/one.png" );
+}
+  .emoticon.open_file_folder:after {
+    content: url( "./emojis/open_file_folder.png" );
+}
+  .emoticon.open_hands:after {
+    content: url( "./emojis/open_hands.png" );
+}
+  .emoticon.open_mouth:after {
+    content: url( "./emojis/open_mouth.png" );
+}
+  .emoticon.ophiuchus:after {
+    content: url( "./emojis/ophiuchus.png" );
+}
+  .emoticon.orange_book:after {
+    content: url( "./emojis/orange_book.png" );
+}
+  .emoticon.outbox_tray:after {
+    content: url( "./emojis/outbox_tray.png" );
+}
+  .emoticon.ox:after {
+    content: url( "./emojis/ox.png" );
+}
+  .emoticon.page_facing_up:after {
+    content: url( "./emojis/page_facing_up.png" );
+}
+  .emoticon.page_with_curl:after {
+    content: url( "./emojis/page_with_curl.png" );
+}
+  .emoticon.pager:after {
+    content: url( "./emojis/pager.png" );
+}
+  .emoticon.palm_tree:after {
+    content: url( "./emojis/palm_tree.png" );
+}
+  .emoticon.panda_face:after {
+    content: url( "./emojis/panda_face.png" );
+}
+  .emoticon.paperclip:after {
+    content: url( "./emojis/paperclip.png" );
+}
+  .emoticon.parking:after {
+    content: url( "./emojis/parking.png" );
+}
+  .emoticon.part_alternation_mark:after {
+    content: url( "./emojis/part_alternation_mark.png" );
+}
+  .emoticon.partly_sunny:after {
+    content: url( "./emojis/partly_sunny.png" );
+}
+  .emoticon.passport_control:after {
+    content: url( "./emojis/passport_control.png" );
+}
+  .emoticon.paw_prints:after {
+    content: url( "./emojis/paw_prints.png" );
+}
+  .emoticon.peach:after {
+    content: url( "./emojis/peach.png" );
+}
+  .emoticon.pear:after {
+    content: url( "./emojis/pear.png" );
+}
+  .emoticon.pencil:after {
+    content: url( "./emojis/pencil.png" );
+}
+  .emoticon.pencil2:after {
+    content: url( "./emojis/pencil2.png" );
+}
+  .emoticon.penguin:after {
+    content: url( "./emojis/penguin.png" );
+}
+  .emoticon.pensive:after {
+    content: url( "./emojis/pensive.png" );
+}
+  .emoticon.performing_arts:after {
+    content: url( "./emojis/performing_arts.png" );
+}
+  .emoticon.persevere:after {
+    content: url( "./emojis/persevere.png" );
+}
+  .emoticon.person_frowning:after {
+    content: url( "./emojis/person_frowning.png" );
+}
+  .emoticon.person_with_blond_hair:after {
+    content: url( "./emojis/person_with_blond_hair.png" );
+}
+  .emoticon.person_with_pouting_face:after {
+    content: url( "./emojis/person_with_pouting_face.png" );
+}
+  .emoticon.phone:after {
+    content: url( "./emojis/phone.png" );
+}
+  .emoticon.pig:after {
+    content: url( "./emojis/pig.png" );
+}
+  .emoticon.pig2:after {
+    content: url( "./emojis/pig2.png" );
+}
+  .emoticon.pig_nose:after {
+    content: url( "./emojis/pig_nose.png" );
+}
+  .emoticon.pill:after {
+    content: url( "./emojis/pill.png" );
+}
+  .emoticon.pineapple:after {
+    content: url( "./emojis/pineapple.png" );
+}
+  .emoticon.pisces:after {
+    content: url( "./emojis/pisces.png" );
+}
+  .emoticon.pizza:after {
+    content: url( "./emojis/pizza.png" );
+}
+  .emoticon.plus1:after {
+    content: url( "./emojis/plus1.png" );
+}
+  .emoticon.point_down:after {
+    content: url( "./emojis/point_down.png" );
+}
+  .emoticon.point_left:after {
+    content: url( "./emojis/point_left.png" );
+}
+  .emoticon.point_right:after {
+    content: url( "./emojis/point_right.png" );
+}
+  .emoticon.point_up:after {
+    content: url( "./emojis/point_up.png" );
+}
+  .emoticon.point_up_2:after {
+    content: url( "./emojis/point_up_2.png" );
+}
+  .emoticon.police_car:after {
+    content: url( "./emojis/police_car.png" );
+}
+  .emoticon.poodle:after {
+    content: url( "./emojis/poodle.png" );
+}
+  .emoticon.poop:after {
+    content: url( "./emojis/poop.png" );
+}
+  .emoticon.post_office:after {
+    content: url( "./emojis/post_office.png" );
+}
+  .emoticon.postal_horn:after {
+    content: url( "./emojis/postal_horn.png" );
+}
+  .emoticon.postbox:after {
+    content: url( "./emojis/postbox.png" );
+}
+  .emoticon.potable_water:after {
+    content: url( "./emojis/potable_water.png" );
+}
+  .emoticon.pouch:after {
+    content: url( "./emojis/pouch.png" );
+}
+  .emoticon.poultry_leg:after {
+    content: url( "./emojis/poultry_leg.png" );
+}
+  .emoticon.pound:after {
+    content: url( "./emojis/pound.png" );
+}
+  .emoticon.pouting_cat:after {
+    content: url( "./emojis/pouting_cat.png" );
+}
+  .emoticon.pray:after {
+    content: url( "./emojis/pray.png" );
+}
+  .emoticon.princess:after {
+    content: url( "./emojis/princess.png" );
+}
+  .emoticon.punch:after {
+    content: url( "./emojis/punch.png" );
+}
+  .emoticon.purple_heart:after {
+    content: url( "./emojis/purple_heart.png" );
+}
+  .emoticon.purse:after {
+    content: url( "./emojis/purse.png" );
+}
+  .emoticon.pushpin:after {
+    content: url( "./emojis/pushpin.png" );
+}
+  .emoticon.put_litter_in_its_place:after {
+    content: url( "./emojis/put_litter_in_its_place.png" );
+}
+  .emoticon.question:after {
+    content: url( "./emojis/question.png" );
+}
+  .emoticon.rabbit:after {
+    content: url( "./emojis/rabbit.png" );
+}
+  .emoticon.rabbit2:after {
+    content: url( "./emojis/rabbit2.png" );
+}
+  .emoticon.racehorse:after {
+    content: url( "./emojis/racehorse.png" );
+}
+  .emoticon.radio:after {
+    content: url( "./emojis/radio.png" );
+}
+  .emoticon.radio_button:after {
+    content: url( "./emojis/radio_button.png" );
+}
+  .emoticon.rage:after {
+    content: url( "./emojis/rage.png" );
+}
+  .emoticon.rage1:after {
+    content: url( "./emojis/rage1.png" );
+}
+  .emoticon.rage2:after {
+    content: url( "./emojis/rage2.png" );
+}
+  .emoticon.rage3:after {
+    content: url( "./emojis/rage3.png" );
+}
+  .emoticon.rage4:after {
+    content: url( "./emojis/rage4.png" );
+}
+  .emoticon.railway_car:after {
+    content: url( "./emojis/railway_car.png" );
+}
+  .emoticon.rainbow:after {
+    content: url( "./emojis/rainbow.png" );
+}
+  .emoticon.raised_hand:after {
+    content: url( "./emojis/raised_hand.png" );
+}
+  .emoticon.raised_hands:after {
+    content: url( "./emojis/raised_hands.png" );
+}
+  .emoticon.raising_hand:after {
+    content: url( "./emojis/raising_hand.png" );
+}
+  .emoticon.ram:after {
+    content: url( "./emojis/ram.png" );
+}
+  .emoticon.ramen:after {
+    content: url( "./emojis/ramen.png" );
+}
+  .emoticon.rat:after {
+    content: url( "./emojis/rat.png" );
+}
+  .emoticon.recycle:after {
+    content: url( "./emojis/recycle.png" );
+}
+  .emoticon.red_car:after {
+    content: url( "./emojis/red_car.png" );
+}
+  .emoticon.red_circle:after {
+    content: url( "./emojis/red_circle.png" );
+}
+  .emoticon.registered:after {
+    content: url( "./emojis/registered.png" );
+}
+  .emoticon.relaxed:after {
+    content: url( "./emojis/relaxed.png" );
+}
+  .emoticon.relieved:after {
+    content: url( "./emojis/relieved.png" );
+}
+  .emoticon.repeat:after {
+    content: url( "./emojis/repeat.png" );
+}
+  .emoticon.repeat_one:after {
+    content: url( "./emojis/repeat_one.png" );
+}
+  .emoticon.restroom:after {
+    content: url( "./emojis/restroom.png" );
+}
+  .emoticon.revolving_hearts:after {
+    content: url( "./emojis/revolving_hearts.png" );
+}
+  .emoticon.rewind:after {
+    content: url( "./emojis/rewind.png" );
+}
+  .emoticon.ribbon:after {
+    content: url( "./emojis/ribbon.png" );
+}
+  .emoticon.rice:after {
+    content: url( "./emojis/rice.png" );
+}
+  .emoticon.rice_ball:after {
+    content: url( "./emojis/rice_ball.png" );
+}
+  .emoticon.rice_cracker:after {
+    content: url( "./emojis/rice_cracker.png" );
+}
+  .emoticon.rice_scene:after {
+    content: url( "./emojis/rice_scene.png" );
+}
+  .emoticon.ring:after {
+    content: url( "./emojis/ring.png" );
+}
+  .emoticon.rocket:after {
+    content: url( "./emojis/rocket.png" );
+}
+  .emoticon.roller_coaster:after {
+    content: url( "./emojis/roller_coaster.png" );
+}
+  .emoticon.rooster:after {
+    content: url( "./emojis/rooster.png" );
+}
+  .emoticon.rose:after {
+    content: url( "./emojis/rose.png" );
+}
+  .emoticon.rotating_light:after {
+    content: url( "./emojis/rotating_light.png" );
+}
+  .emoticon.round_pushpin:after {
+    content: url( "./emojis/round_pushpin.png" );
+}
+  .emoticon.rowboat:after {
+    content: url( "./emojis/rowboat.png" );
+}
+  .emoticon.ru:after {
+    content: url( "./emojis/ru.png" );
+}
+  .emoticon.rugby_football:after {
+    content: url( "./emojis/rugby_football.png" );
+}
+  .emoticon.runner:after {
+    content: url( "./emojis/runner.png" );
+}
+  .emoticon.running:after {
+    content: url( "./emojis/running.png" );
+}
+  .emoticon.running_shirt_with_sash:after {
+    content: url( "./emojis/running_shirt_with_sash.png" );
+}
+  .emoticon.sa:after {
+    content: url( "./emojis/sa.png" );
+}
+  .emoticon.sagittarius:after {
+    content: url( "./emojis/sagittarius.png" );
+}
+  .emoticon.sailboat:after {
+    content: url( "./emojis/sailboat.png" );
+}
+  .emoticon.sake:after {
+    content: url( "./emojis/sake.png" );
+}
+  .emoticon.sandal:after {
+    content: url( "./emojis/sandal.png" );
+}
+  .emoticon.santa:after {
+    content: url( "./emojis/santa.png" );
+}
+  .emoticon.satellite:after {
+    content: url( "./emojis/satellite.png" );
+}
+  .emoticon.satisfied:after {
+    content: url( "./emojis/satisfied.png" );
+}
+  .emoticon.saxophone:after {
+    content: url( "./emojis/saxophone.png" );
+}
+  .emoticon.school:after {
+    content: url( "./emojis/school.png" );
+}
+  .emoticon.school_satchel:after {
+    content: url( "./emojis/school_satchel.png" );
+}
+  .emoticon.scissors:after {
+    content: url( "./emojis/scissors.png" );
+}
+  .emoticon.scorpius:after {
+    content: url( "./emojis/scorpius.png" );
+}
+  .emoticon.scream:after {
+    content: url( "./emojis/scream.png" );
+}
+  .emoticon.scream_cat:after {
+    content: url( "./emojis/scream_cat.png" );
+}
+  .emoticon.scroll:after {
+    content: url( "./emojis/scroll.png" );
+}
+  .emoticon.seat:after {
+    content: url( "./emojis/seat.png" );
+}
+  .emoticon.secret:after {
+    content: url( "./emojis/secret.png" );
+}
+  .emoticon.see_no_evil:after {
+    content: url( "./emojis/see_no_evil.png" );
+}
+  .emoticon.seedling:after {
+    content: url( "./emojis/seedling.png" );
+}
+  .emoticon.seven:after {
+    content: url( "./emojis/seven.png" );
+}
+  .emoticon.shaved_ice:after {
+    content: url( "./emojis/shaved_ice.png" );
+}
+  .emoticon.sheep:after {
+    content: url( "./emojis/sheep.png" );
+}
+  .emoticon.shell:after {
+    content: url( "./emojis/shell.png" );
+}
+  .emoticon.ship:after {
+    content: url( "./emojis/ship.png" );
+}
+  .emoticon.shipit:after {
+    content: url( "./emojis/shipit.png" );
+}
+  .emoticon.shirt:after {
+    content: url( "./emojis/shirt.png" );
+}
+  .emoticon.shit:after {
+    content: url( "./emojis/shit.png" );
+}
+  .emoticon.shoe:after {
+    content: url( "./emojis/shoe.png" );
+}
+  .emoticon.shower:after {
+    content: url( "./emojis/shower.png" );
+}
+  .emoticon.signal_strength:after {
+    content: url( "./emojis/signal_strength.png" );
+}
+  .emoticon.six:after {
+    content: url( "./emojis/six.png" );
+}
+  .emoticon.six_pointed_star:after {
+    content: url( "./emojis/six_pointed_star.png" );
+}
+  .emoticon.ski:after {
+    content: url( "./emojis/ski.png" );
+}
+  .emoticon.skull:after {
+    content: url( "./emojis/skull.png" );
+}
+  .emoticon.sleeping:after {
+    content: url( "./emojis/sleeping.png" );
+}
+  .emoticon.sleepy:after {
+    content: url( "./emojis/sleepy.png" );
+}
+  .emoticon.slot_machine:after {
+    content: url( "./emojis/slot_machine.png" );
+}
+  .emoticon.small_blue_diamond:after {
+    content: url( "./emojis/small_blue_diamond.png" );
+}
+  .emoticon.small_orange_diamond:after {
+    content: url( "./emojis/small_orange_diamond.png" );
+}
+  .emoticon.small_red_triangle:after {
+    content: url( "./emojis/small_red_triangle.png" );
+}
+  .emoticon.small_red_triangle_down:after {
+    content: url( "./emojis/small_red_triangle_down.png" );
+}
+  .emoticon.smile:after {
+    content: url( "./emojis/smile.png" );
+}
+  .emoticon.smile_cat:after {
+    content: url( "./emojis/smile_cat.png" );
+}
+  .emoticon.smiley:after {
+    content: url( "./emojis/smiley.png" );
+}
+  .emoticon.smiley_cat:after {
+    content: url( "./emojis/smiley_cat.png" );
+}
+  .emoticon.smiling_imp:after {
+    content: url( "./emojis/smiling_imp.png" );
+}
+  .emoticon.smirk:after {
+    content: url( "./emojis/smirk.png" );
+}
+  .emoticon.smirk_cat:after {
+    content: url( "./emojis/smirk_cat.png" );
+}
+  .emoticon.smoking:after {
+    content: url( "./emojis/smoking.png" );
+}
+  .emoticon.snail:after {
+    content: url( "./emojis/snail.png" );
+}
+  .emoticon.snake:after {
+    content: url( "./emojis/snake.png" );
+}
+  .emoticon.snowboarder:after {
+    content: url( "./emojis/snowboarder.png" );
+}
+  .emoticon.snowflake:after {
+    content: url( "./emojis/snowflake.png" );
+}
+  .emoticon.snowman:after {
+    content: url( "./emojis/snowman.png" );
+}
+  .emoticon.sob:after {
+    content: url( "./emojis/sob.png" );
+}
+  .emoticon.soccer:after {
+    content: url( "./emojis/soccer.png" );
+}
+  .emoticon.soon:after {
+    content: url( "./emojis/soon.png" );
+}
+  .emoticon.sos:after {
+    content: url( "./emojis/sos.png" );
+}
+  .emoticon.sound:after {
+    content: url( "./emojis/sound.png" );
+}
+  .emoticon.space_invader:after {
+    content: url( "./emojis/space_invader.png" );
+}
+  .emoticon.spades:after {
+    content: url( "./emojis/spades.png" );
+}
+  .emoticon.spaghetti:after {
+    content: url( "./emojis/spaghetti.png" );
+}
+  .emoticon.sparkler:after {
+    content: url( "./emojis/sparkler.png" );
+}
+  .emoticon.sparkles:after {
+    content: url( "./emojis/sparkles.png" );
+}
+  .emoticon.sparkling_heart:after {
+    content: url( "./emojis/sparkling_heart.png" );
+}
+  .emoticon.speak_no_evil:after {
+    content: url( "./emojis/speak_no_evil.png" );
+}
+  .emoticon.speaker:after {
+    content: url( "./emojis/speaker.png" );
+}
+  .emoticon.speech_balloon:after {
+    content: url( "./emojis/speech_balloon.png" );
+}
+  .emoticon.speedboat:after {
+    content: url( "./emojis/speedboat.png" );
+}
+  .emoticon.squirrel:after {
+    content: url( "./emojis/squirrel.png" );
+}
+  .emoticon.star:after {
+    content: url( "./emojis/star.png" );
+}
+  .emoticon.star2:after {
+    content: url( "./emojis/star2.png" );
+}
+  .emoticon.stars:after {
+    content: url( "./emojis/stars.png" );
+}
+  .emoticon.station:after {
+    content: url( "./emojis/station.png" );
+}
+  .emoticon.statue_of_liberty:after {
+    content: url( "./emojis/statue_of_liberty.png" );
+}
+  .emoticon.steam_locomotive:after {
+    content: url( "./emojis/steam_locomotive.png" );
+}
+  .emoticon.stew:after {
+    content: url( "./emojis/stew.png" );
+}
+  .emoticon.straight_ruler:after {
+    content: url( "./emojis/straight_ruler.png" );
+}
+  .emoticon.strawberry:after {
+    content: url( "./emojis/strawberry.png" );
+}
+  .emoticon.stuck_out_tongue:after {
+    content: url( "./emojis/stuck_out_tongue.png" );
+}
+  .emoticon.stuck_out_tongue_closed_eyes:after {
+    content: url( "./emojis/stuck_out_tongue_closed_eyes.png" );
+}
+  .emoticon.stuck_out_tongue_winking_eye:after {
+    content: url( "./emojis/stuck_out_tongue_winking_eye.png" );
+}
+  .emoticon.sun_with_face:after {
+    content: url( "./emojis/sun_with_face.png" );
+}
+  .emoticon.sunflower:after {
+    content: url( "./emojis/sunflower.png" );
+}
+  .emoticon.sunglasses:after {
+    content: url( "./emojis/sunglasses.png" );
+}
+  .emoticon.sunny:after {
+    content: url( "./emojis/sunny.png" );
+}
+  .emoticon.sunrise:after {
+    content: url( "./emojis/sunrise.png" );
+}
+  .emoticon.sunrise_over_mountains:after {
+    content: url( "./emojis/sunrise_over_mountains.png" );
+}
+  .emoticon.surfer:after {
+    content: url( "./emojis/surfer.png" );
+}
+  .emoticon.sushi:after {
+    content: url( "./emojis/sushi.png" );
+}
+  .emoticon.suspect:after {
+    content: url( "./emojis/suspect.png" );
+}
+  .emoticon.suspension_railway:after {
+    content: url( "./emojis/suspension_railway.png" );
+}
+  .emoticon.sweat:after {
+    content: url( "./emojis/sweat.png" );
+}
+  .emoticon.sweat_drops:after {
+    content: url( "./emojis/sweat_drops.png" );
+}
+  .emoticon.sweat_smile:after {
+    content: url( "./emojis/sweat_smile.png" );
+}
+  .emoticon.sweet_potato:after {
+    content: url( "./emojis/sweet_potato.png" );
+}
+  .emoticon.swimmer:after {
+    content: url( "./emojis/swimmer.png" );
+}
+  .emoticon.symbols:after {
+    content: url( "./emojis/symbols.png" );
+}
+  .emoticon.syringe:after {
+    content: url( "./emojis/syringe.png" );
+}
+  .emoticon.tada:after {
+    content: url( "./emojis/tada.png" );
+}
+  .emoticon.tanabata_tree:after {
+    content: url( "./emojis/tanabata_tree.png" );
+}
+  .emoticon.tangerine:after {
+    content: url( "./emojis/tangerine.png" );
+}
+  .emoticon.taurus:after {
+    content: url( "./emojis/taurus.png" );
+}
+  .emoticon.taxi:after {
+    content: url( "./emojis/taxi.png" );
+}
+  .emoticon.tea:after {
+    content: url( "./emojis/tea.png" );
+}
+  .emoticon.telephone:after {
+    content: url( "./emojis/telephone.png" );
+}
+  .emoticon.telephone_receiver:after {
+    content: url( "./emojis/telephone_receiver.png" );
+}
+  .emoticon.telescope:after {
+    content: url( "./emojis/telescope.png" );
+}
+  .emoticon.tennis:after {
+    content: url( "./emojis/tennis.png" );
+}
+  .emoticon.tent:after {
+    content: url( "./emojis/tent.png" );
+}
+  .emoticon.thought_balloon:after {
+    content: url( "./emojis/thought_balloon.png" );
+}
+  .emoticon.three:after {
+    content: url( "./emojis/three.png" );
+}
+  .emoticon.thumbsdown:after {
+    content: url( "./emojis/thumbsdown.png" );
+}
+  .emoticon.thumbsup:after {
+    content: url( "./emojis/thumbsup.png" );
+}
+  .emoticon.ticket:after {
+    content: url( "./emojis/ticket.png" );
+}
+  .emoticon.tiger:after {
+    content: url( "./emojis/tiger.png" );
+}
+  .emoticon.tiger2:after {
+    content: url( "./emojis/tiger2.png" );
+}
+  .emoticon.tired_face:after {
+    content: url( "./emojis/tired_face.png" );
+}
+  .emoticon.tm:after {
+    content: url( "./emojis/tm.png" );
+}
+  .emoticon.toilet:after {
+    content: url( "./emojis/toilet.png" );
+}
+  .emoticon.tokyo_tower:after {
+    content: url( "./emojis/tokyo_tower.png" );
+}
+  .emoticon.tomato:after {
+    content: url( "./emojis/tomato.png" );
+}
+  .emoticon.tongue:after {
+    content: url( "./emojis/tongue.png" );
+}
+  .emoticon.top:after {
+    content: url( "./emojis/top.png" );
+}
+  .emoticon.tophat:after {
+    content: url( "./emojis/tophat.png" );
+}
+  .emoticon.tractor:after {
+    content: url( "./emojis/tractor.png" );
+}
+  .emoticon.traffic_light:after {
+    content: url( "./emojis/traffic_light.png" );
+}
+  .emoticon.train:after {
+    content: url( "./emojis/train.png" );
+}
+  .emoticon.train2:after {
+    content: url( "./emojis/train2.png" );
+}
+  .emoticon.tram:after {
+    content: url( "./emojis/tram.png" );
+}
+  .emoticon.triangular_flag_on_post:after {
+    content: url( "./emojis/triangular_flag_on_post.png" );
+}
+  .emoticon.triangular_ruler:after {
+    content: url( "./emojis/triangular_ruler.png" );
+}
+  .emoticon.trident:after {
+    content: url( "./emojis/trident.png" );
+}
+  .emoticon.triumph:after {
+    content: url( "./emojis/triumph.png" );
+}
+  .emoticon.trolleybus:after {
+    content: url( "./emojis/trolleybus.png" );
+}
+  .emoticon.trollface:after {
+    content: url( "./emojis/trollface.png" );
+}
+  .emoticon.trophy:after {
+    content: url( "./emojis/trophy.png" );
+}
+  .emoticon.tropical_drink:after {
+    content: url( "./emojis/tropical_drink.png" );
+}
+  .emoticon.tropical_fish:after {
+    content: url( "./emojis/tropical_fish.png" );
+}
+  .emoticon.truck:after {
+    content: url( "./emojis/truck.png" );
+}
+  .emoticon.trumpet:after {
+    content: url( "./emojis/trumpet.png" );
+}
+  .emoticon.tshirt:after {
+    content: url( "./emojis/tshirt.png" );
+}
+  .emoticon.tulip:after {
+    content: url( "./emojis/tulip.png" );
+}
+  .emoticon.turtle:after {
+    content: url( "./emojis/turtle.png" );
+}
+  .emoticon.tv:after {
+    content: url( "./emojis/tv.png" );
+}
+  .emoticon.twisted_rightwards_arrows:after {
+    content: url( "./emojis/twisted_rightwards_arrows.png" );
+}
+  .emoticon.two:after {
+    content: url( "./emojis/two.png" );
+}
+  .emoticon.two_hearts:after {
+    content: url( "./emojis/two_hearts.png" );
+}
+  .emoticon.two_men_holding_hands:after {
+    content: url( "./emojis/two_men_holding_hands.png" );
+}
+  .emoticon.two_women_holding_hands:after {
+    content: url( "./emojis/two_women_holding_hands.png" );
+}
+  .emoticon.u5272:after {
+    content: url( "./emojis/u5272.png" );
+}
+  .emoticon.u5408:after {
+    content: url( "./emojis/u5408.png" );
+}
+  .emoticon.u55b6:after {
+    content: url( "./emojis/u55b6.png" );
+}
+  .emoticon.u6307:after {
+    content: url( "./emojis/u6307.png" );
+}
+  .emoticon.u6708:after {
+    content: url( "./emojis/u6708.png" );
+}
+  .emoticon.u6709:after {
+    content: url( "./emojis/u6709.png" );
+}
+  .emoticon.u6e80:after {
+    content: url( "./emojis/u6e80.png" );
+}
+  .emoticon.u7121:after {
+    content: url( "./emojis/u7121.png" );
+}
+  .emoticon.u7533:after {
+    content: url( "./emojis/u7533.png" );
+}
+  .emoticon.u7981:after {
+    content: url( "./emojis/u7981.png" );
+}
+  .emoticon.u7a7a:after {
+    content: url( "./emojis/u7a7a.png" );
+}
+  .emoticon.uk:after {
+    content: url( "./emojis/uk.png" );
+}
+  .emoticon.umbrella:after {
+    content: url( "./emojis/umbrella.png" );
+}
+  .emoticon.unamused:after {
+    content: url( "./emojis/unamused.png" );
+}
+  .emoticon.underage:after {
+    content: url( "./emojis/underage.png" );
+}
+  .emoticon.unlock:after {
+    content: url( "./emojis/unlock.png" );
+}
+  .emoticon.up:after {
+    content: url( "./emojis/up.png" );
+}
+  .emoticon.us:after {
+    content: url( "./emojis/us.png" );
+}
+  .emoticon.v:after {
+    content: url( "./emojis/v.png" );
+}
+  .emoticon.vertical_traffic_light:after {
+    content: url( "./emojis/vertical_traffic_light.png" );
+}
+  .emoticon.vhs:after {
+    content: url( "./emojis/vhs.png" );
+}
+  .emoticon.vibration_mode:after {
+    content: url( "./emojis/vibration_mode.png" );
+}
+  .emoticon.video_camera:after {
+    content: url( "./emojis/video_camera.png" );
+}
+  .emoticon.video_game:after {
+    content: url( "./emojis/video_game.png" );
+}
+  .emoticon.violin:after {
+    content: url( "./emojis/violin.png" );
+}
+  .emoticon.virgo:after {
+    content: url( "./emojis/virgo.png" );
+}
+  .emoticon.volcano:after {
+    content: url( "./emojis/volcano.png" );
+}
+  .emoticon.vs:after {
+    content: url( "./emojis/vs.png" );
+}
+  .emoticon.walking:after {
+    content: url( "./emojis/walking.png" );
+}
+  .emoticon.waning_crescent_moon:after {
+    content: url( "./emojis/waning_crescent_moon.png" );
+}
+  .emoticon.waning_gibbous_moon:after {
+    content: url( "./emojis/waning_gibbous_moon.png" );
+}
+  .emoticon.warning:after {
+    content: url( "./emojis/warning.png" );
+}
+  .emoticon.watch:after {
+    content: url( "./emojis/watch.png" );
+}
+  .emoticon.water_buffalo:after {
+    content: url( "./emojis/water_buffalo.png" );
+}
+  .emoticon.watermelon:after {
+    content: url( "./emojis/watermelon.png" );
+}
+  .emoticon.wave:after {
+    content: url( "./emojis/wave.png" );
+}
+  .emoticon.wavy_dash:after {
+    content: url( "./emojis/wavy_dash.png" );
+}
+  .emoticon.waxing_crescent_moon:after {
+    content: url( "./emojis/waxing_crescent_moon.png" );
+}
+  .emoticon.waxing_gibbous_moon:after {
+    content: url( "./emojis/waxing_gibbous_moon.png" );
+}
+  .emoticon.wc:after {
+    content: url( "./emojis/wc.png" );
+}
+  .emoticon.weary:after {
+    content: url( "./emojis/weary.png" );
+}
+  .emoticon.wedding:after {
+    content: url( "./emojis/wedding.png" );
+}
+  .emoticon.whale:after {
+    content: url( "./emojis/whale.png" );
+}
+  .emoticon.whale2:after {
+    content: url( "./emojis/whale2.png" );
+}
+  .emoticon.wheelchair:after {
+    content: url( "./emojis/wheelchair.png" );
+}
+  .emoticon.white_check_mark:after {
+    content: url( "./emojis/white_check_mark.png" );
+}
+  .emoticon.white_circle:after {
+    content: url( "./emojis/white_circle.png" );
+}
+  .emoticon.white_flower:after {
+    content: url( "./emojis/white_flower.png" );
+}
+  .emoticon.white_large_square:after {
+    content: url( "./emojis/white_large_square.png" );
+}
+  .emoticon.white_square_button:after {
+    content: url( "./emojis/white_square_button.png" );
+}
+  .emoticon.wind_chime:after {
+    content: url( "./emojis/wind_chime.png" );
+}
+  .emoticon.wine_glass:after {
+    content: url( "./emojis/wine_glass.png" );
+}
+  .emoticon.wink:after {
+    content: url( "./emojis/wink.png" );
+}
+  .emoticon.wolf:after {
+    content: url( "./emojis/wolf.png" );
+}
+  .emoticon.woman:after {
+    content: url( "./emojis/woman.png" );
+}
+  .emoticon.womans_clothes:after {
+    content: url( "./emojis/womans_clothes.png" );
+}
+  .emoticon.womans_hat:after {
+    content: url( "./emojis/womans_hat.png" );
+}
+  .emoticon.womens:after {
+    content: url( "./emojis/womens.png" );
+}
+  .emoticon.worried:after {
+    content: url( "./emojis/worried.png" );
+}
+  .emoticon.wrench:after {
+    content: url( "./emojis/wrench.png" );
+}
+  .emoticon.x:after {
+    content: url( "./emojis/x.png" );
+}
+  .emoticon.yellow_heart:after {
+    content: url( "./emojis/yellow_heart.png" );
+}
+  .emoticon.yen:after {
+    content: url( "./emojis/yen.png" );
+}
+  .emoticon.yum:after {
+    content: url( "./emojis/yum.png" );
+}
+  .emoticon.zap:after {
+    content: url( "./emojis/zap.png" );
+}
+  .emoticon.zero:after {
+    content: url( "./emojis/zero.png" );
+}
+  .emoticon.zzz:after {
+    content: url( "./emojis/zzz.png" );
+}
+
