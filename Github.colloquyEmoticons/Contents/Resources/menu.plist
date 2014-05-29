@@ -1,6 +1,4 @@
 (
-    {name = "+1"; image = "./emojis/+1.png"; insert = ":+1:";},
-    {name = "-1"; image = "./emojis/-1.png"; insert = ":-1:";},
     {name = "100"; image = "./emojis/100.png"; insert = ":100:";},
     {name = "1234"; image = "./emojis/1234.png"; insert = ":1234:";},
     {name = "8ball"; image = "./emojis/8ball.png"; insert = ":8ball:";},

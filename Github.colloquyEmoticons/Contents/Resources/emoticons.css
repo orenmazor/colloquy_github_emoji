@@ -6,12 +6,6 @@
 	vertical-align: -25%;
 }
 
-  .emoticon.+1:after {
-    content: url( "./emojis/+1.png" );
-}
-  .emoticon.-1:after {
-    content: url( "./emojis/-1.png" );
-}
   .emoticon.100:after {
     content: url( "./emojis/100.png" );
 }
